@@ -3,7 +3,7 @@
 
 [강의](https://www.edwith.org/swiftapp/lecture/19420?isDesc=false)
 
-# H1, 카드 짝 맞추기
+# 카드 짝 맞추기
 <img src="https://user-images.githubusercontent.com/80296020/135740496-6ea7595f-a2b7-470c-8b8d-9a71d627602b.png">
 
 
